@@ -1,6 +1,0 @@
-1、程序中配置文件改名为dbconfigNole.properties，需要到相应的 tomcat下找到相应文件更改名称。
-2、DbManager和LoginManager下的SerAuth没用，删掉了。
-3、rddb包已经去掉，对应更改了table.tld文件。
-4、checkuser也做了改动
-5、新建一个dmwh表。
-
